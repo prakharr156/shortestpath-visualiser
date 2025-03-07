@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-// import logo from './Logo.png';
+import logo from './Logo.png';
 import Node from './Node/Node';
 import {dijkstra, getNodesInShortestPathOrder} from '../algorithms/dijkstra';
 
